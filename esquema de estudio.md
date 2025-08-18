@@ -18,7 +18,7 @@
 - [x] Tuplas
 - [x] Diccionarios
 - [x] Sets
-- [ ] Sentencias de control
+- [x] Sentencias de control
 - [ ] While
 
 ### Repaso Python (Funciones, Clases, Regex)
