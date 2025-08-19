@@ -5,21 +5,21 @@
 - [x] Listas y Tuplas
 - [x] Diccionarios y Sets
 - [x] Sentencias de Control
-- [ ] Bucles for
+- [x] Bucles for
 - [ ] Funciones
 - [ ] Clases
 - [ ] Expresiones regulares
 
 ## Repasos
 
-### Repaso Python (estructuras de datos y control de flujo)
+### Repaso Python (estructuras de datos y control de flujo) ✅
 
 - [x] Listas
 - [x] Tuplas
 - [x] Diccionarios
 - [x] Sets
 - [x] Sentencias de control
-- [ ] While
+- [x] While
 
 ### Repaso Python (Funciones, Clases, Regex)
 
