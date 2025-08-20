@@ -6,8 +6,8 @@
 - [x] Diccionarios y Sets
 - [x] Sentencias de Control
 - [x] Bucles for
-- [ ] Funciones
-- [ ] Clases
+- [x] Funciones
+- [x] Clases
 - [ ] Expresiones regulares
 
 ## Repasos
