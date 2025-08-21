@@ -1,6 +1,6 @@
 # Módulo 1
 
-## Ejercicios
+## Ejercicios ✅
 
 - [x] Listas y Tuplas
 - [x] Diccionarios y Sets
@@ -8,7 +8,7 @@
 - [x] Bucles for
 - [x] Funciones
 - [x] Clases
-- [ ] Expresiones regulares
+- [x] Expresiones regulares
 
 ## Repasos
 
